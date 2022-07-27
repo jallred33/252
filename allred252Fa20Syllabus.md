@@ -3,10 +3,16 @@
 ## ENGL 252: In/di/visible: Race and Vision, 1900-present
 
 Instructor: Jeff Allred
+
 Class Meetings: M/Th 11.10-12.25 via Zoom ([here’s the link](https://huntercollege.zoom.us/j/99525183195?pwd=Sm9WOTRZT2wxckZoZWdCNnlNL0NtQT09))
-Office Hours: M/Th 10-11 [on Zoom](https://www.google.com/url?q=https://huntercollege.zoom.us/j/99525183195?pwd%3DSm9WOTRZT2wxckZoZWdCNnlNL0NtQT09&sa=D&source=calendar&usd=2&usg=AOvVaw31rOiLlv012LINEdKdpAUy) and  by appointment. Contact me: [jeff.allred@hunter.cuny.edu](mailto:jeff.allred@hunter.cuny.edu)
+
+Office Hours: M/Th 10-11 [on Zoom](https://www.google.com/url?q=https://huntercollege.zoom.us/j/99525183195?pwd%3DSm9WOTRZT2wxckZoZWdCNnlNL0NtQT09&sa=D&source=calendar&usd=2&usg=AOvVaw31rOiLlv012LINEdKdpAUy) and by appointment. 
+Contact me: [jeff.allred@hunter.cuny.edu](mailto:jeff.allred@hunter.cuny.edu)
+
 Course Blog: [https://indivisible.commons.gc.cuny.edu](https://indivisible.commons.gc.cuny.edu)
+
 Course Code: 8853
+
 hypothes.is group link: https://hypothes.is/groups/1Y7zVbmM/allred252fa20
 
 **Learning Outcomes**
