@@ -1,5 +1,4 @@
 
-# Guidelines for ENGL 252 final project:
 ## rationale:
 
 The final project for this course is designed to **build your mastery** of the research and writing process in literary criticism. In this sense, it builds on the skills developed in ENGL 120 and 220: the “close reading” of literary texts, the identification and proper documentation of sources, and the construction of literary arguments. Just as it grows out of these prior steps in the curriculum, it points towards the more robust research projects you’ll be expected to undertake in the 300 and 400 level, devising research projects from open prompts and writing longer essays that mount original arguments based in self-directed research. Accordingly, the assignment emphasizes **process**–the various steps along the way to conceiving and carrying out research and writing–over **product**. The product, in fact, will be an unusual mix of “finished” writing and reflection on the process.
