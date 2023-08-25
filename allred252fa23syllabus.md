@@ -12,15 +12,17 @@
 
 **Catalog Number**: 9143 (sec. 3)
 
-**CUNY Commons Blog**: https://engl252fa23.commons.gc.cuny.edu
+**CUNY Commons Blog**: 
+
+[https://engl252fa23.commons.gc.cuny.edu](https://engl252fa23.commons.gc.cuny.edu)
 
 **CUNY Commons Group**:
 
-https://commons.gc.cuny.edu/groups/engl-252-fa23/
+[https://commons.gc.cuny.edu/groups/engl-252-fa23/](https://commons.gc.cuny.edu/groups/engl-252-fa23/)
 
 **hypothes.is Groups**:
 
-https://hypothes.is/groups/7JMLKPAw/allred252fa23
+[https://hypothes.is/groups/7JMLKPAw/allred252fa23](https://hypothes.is/groups/7JMLKPAw/allred252fa23)
 
 ## **Learning Outcomes**
 
