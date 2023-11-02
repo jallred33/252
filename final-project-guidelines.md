@@ -7,11 +7,11 @@ The final project for this course is designed to **build your mastery** of the r
 
 The project requires a number of distinct steps over the month, roughly, between the submission of the research questions and of the final project. Here is a description of what’s required at each step, followed by a chart for quick reference:
 
-1. **Submit a “research question”**: you should think of a question that relates to one of the texts we’ve read, a question that will require some research to answer. Think about some of the critical work we’re read together and consider ways of asking similar kinds of questions using similar methodologies. For example, you might examine the presence of 1990s political and cultural events in Butler's novel, or the role played by Sundarban folklore in Ghosh's novel.
-2. **Submit a simple bibliography**: Following our library visit on November 14th, you will compile a list of relevant sources for your project in MLA format on the blog, followed by a brief description (one paragraph or so) about your research process: what databases you consulted, what search terms you used, and so on. All projects will look different, but successful projects will have at least five sources that meet the criteria laid out in our library visit. I’ve compiled some items in an open bibliography [here](https://engl252fa22s4.commons.gc.cuny.edu/biblio/): feel free to borrow or just use for inspiration.
+1. **Submit a “research question”**: you should think of a question that relates to one of the texts we’ve read, a question that will require some research to answer. Think about some of the critical work we’re read together and consider ways of asking similar kinds of questions using similar methodologies. For example, you might examine the presence of 1990s political and cultural events in Butler's novel, or the role played by Sundarban folklore in Ghosh's novel. Due before class on 11/9.
+2. **Submit a simple bibliography**: Following our library visit on November 9th, you will compile a list of relevant sources for your project in MLA format on the blog, followed by a brief description (one paragraph or so) about your research process: what databases you consulted, what search terms you used, and so on. All projects will look different, but successful projects will have at least five sources that meet the criteria laid out in our library visit. I’ve compiled some items in an open bibliography [here](https://engl252fa22s4.commons.gc.cuny.edu/biblio/): feel free to borrow or just use for inspiration.
 3. **Submit an annotated bibliography**: This builds on your prior bibliography, adding items as you discover them and subtracting items that prove not to be useful. Most importantly, each entry will contain a brief description of the item: what it argues, how it’s relevant to your argument, why it matters. [Here’s a good example](https://indivisible.commons.gc.cuny.edu/2020/11/28/annotated-bib-2/).
 4. **Attend a “pairs” conference**: the week before the end of class, two sessions will be devoted to students coming to a 10-minute chat with me in pairs. There we will review your annotated bibliographies, talk about where you are and what issues you’re having, and you will give each other a bit of feedback. Here are some tips for a successful conference. This is mandatory but ungraded, and I will give out a signup sheet in advance of the conferences.
-5. **Submit your final project**: Your final project will consist of the first four paragraphs of an essay, followed by responses to a series of questions that will ask you to reflect on the project thinking, for example, about your research process, how your argument would have developed in a full essay, and what challenges you confronted in conceiving the project and doing the research. All this will be entered on this template and uploaded to Dropbox via this link [links TBA]. You will share thoughts orally as well on 12/12 in a brief “lightning talk,” a 3-minute reflection on any aspect of your project to peers in class.
+5. **Submit your final project**: Your final project will consist of the first four paragraphs of an essay, followed by responses to a series of questions that will ask you to reflect on the project thinking, for example, about your research process, how your argument would have developed in a full essay, and what challenges you confronted in conceiving the project and doing the research. All this will be entered on this template and uploaded to Dropbox via this link [links TBA]. You will share thoughts orally as well on 12/11 in a brief “lightning talk,” a 3-minute reflection on any aspect of your project to peers in class.
 
 
 
@@ -19,10 +19,10 @@ The project requires a number of distinct steps over the month, roughly, between
 
  **date** | **work due** | **% of grade** 
 ----------| -------- | -------
-11/14|Research question due **on the course blog** and library visit| 10
-11/21|Simple bibliography due **on the blog**|10
-12/1|Annotated bibliography due **on the blog** and “pairs” conferences in class (12/5 or 8)|10
-12/13-14|"Lightning talk” in class (12/13) + project due via Dropbox link (12/14)|70
+11/9|Research question due **on the course blog** and library visit| 10
+11/16|Simple bibliography due **on the blog**|10
+11/30|Annotated bibliography due **on the blog** and “pairs” conferences in class (12/4 or 7)|10
+12/11|"Lightning talk” in class (12/11) + project due via Dropbox link (12/14)|70
 
 
 
