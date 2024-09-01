@@ -112,6 +112,6 @@ Hunter College is dedicated to the health, wellness and safety of our student bo
 
 Amitav Ghosh, *The Hungry Tide* [isbn: 9780618711666]
 
-Ben Lerner, *10:04: a Novel* [isbn: 9781250081339]
+Jenny Offill, *Weather* [isbn: 9780345806901]
 
 Octavia Butler, *Parable of the Sower* [isbn: 9781538732182]
