@@ -21,7 +21,7 @@ The project requires a number of distinct steps over the month, roughly, between
 ----------| -------- | -------
 11/11|Research question due **on the course blog** and library visit| 10
 11/18|Simple bibliography due **on the blog**|10
-12/2|Annotated bibliography due **on the blog** and “pairs” conferences in class (12/4 or 7)|10
+12/2|Annotated bibliography due **on the blog** and “pairs” conferences in class (12/5 or 9)|10
 12/12|"Lightning talk” in class (12/12) + project due via Dropbox link (12/15 at 5pm)|70
 
 
